@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Баина Манджиева](https://up.htmlacademy.ru/htmlcss/35/user/2127015).
-* Наставник: `Неизвестно`.
+* Наставник: [Valentyn Diravka](https://htmlacademy.ru/profile/id1567679).
 
 ---
 
